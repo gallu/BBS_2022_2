@@ -1,0 +1,6 @@
+create database bbs_2022;
+grant all on bbs_2022.* to bbs_2022_user@localhost identified by 'bbs_2022_pass';
+
+bbs_2022
+bbs_2022_user
+bbs_2022_pass
